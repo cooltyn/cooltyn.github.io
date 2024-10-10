@@ -1,0 +1,1 @@
+import{o as t,c as o,b as e}from"./index-BbbTO97t.js";const n={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 9 6"};function a(r,l){return t(),o("svg",n,l[0]||(l[0]=[e("path",{fill:"#fff",d:"M0 0h9v3H0z"},null,-1),e("path",{fill:"#d52b1e",d:"M0 3h9v3H0z"},null,-1),e("path",{fill:"#0039a6",d:"M0 2h9v2H0z"},null,-1)]))}const f={render:a};export{f as default,a as render};

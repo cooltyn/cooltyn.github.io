@@ -1,0 +1,1 @@
+function n(r){return r&&(r=String(r),r.includes(".")?(r=r.split("."),`${r[0].replace(/(\d)(?=(\d{3})+$)/g,"$1 ")}.${r[1]}`):r.replace(/(\d)(?=(\d{3})+$)/g,"$1 "))}function c(r){let t=null;try{t=JSON.parse(localStorage.getItem(r))}catch(e){console.warn(e)}return t||[]}export{n as f,c as g};
