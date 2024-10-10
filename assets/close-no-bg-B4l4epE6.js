@@ -1,0 +1,1 @@
+import{o,c as r,b as t}from"./index-CBtjRs3Z.js";const n={xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 13 13"};function s(l,e){return o(),r("svg",n,e[0]||(e[0]=[t("path",{stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"1.2",d:"m1 1 11 11M12 1 1 12"},null,-1)]))}const a={render:s};export{a as default,s as render};
